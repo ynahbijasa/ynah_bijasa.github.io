@@ -1,0 +1,49 @@
+.nav_bar {
+    border-bottom: 1px solid black;
+}
+
+.nav_bar a {
+    font-size: 24px;
+    text-decoration: none;
+    letter-spacing: 2px;
+
+}
+
+#title_name {
+    font-size: 2.5rem;
+    color:rgb(158, 111, 158);
+    letter-spacing: 2px;
+}
+
+#rcorners3 {
+    border-radius: 25px;
+    background: url(paper.gif);
+    background-position: left top;
+    background-repeat: repeat;
+    padding: 20px; 
+    width: 200px;
+    height: 150px; 
+  }
+
+.homepage_project_image {
+    width: 300px;
+    height: 300px;
+    padding: 5px;
+    background-color:rgb(194, 137, 194)
+    
+}
+.project_card_name  {
+    text-align: center;
+}
+
+img {opacity: 0.8}
+
+img:hover {opacity: 1.0}
+
+.project_card_about {
+    text-align: center;
+}
+
+.project_page_description {
+    margin-top: 1%;
+}
